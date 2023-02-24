@@ -472,10 +472,6 @@
   margin-top: 20px;
 }
 
-.footer__list-item_last-row {
-  margin-top: 16px;
-}
-
 .footer__column-heading {
   margin: 0;
   display: flex;
@@ -489,7 +485,7 @@
 }
 
 .footer__column-link:hover {
-  color: #1f69c9;
+  color: #c1c1c1;
 }
 
 .footer__social-icon {
