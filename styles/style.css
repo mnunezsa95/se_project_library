@@ -173,6 +173,10 @@
   text-decoration: none;
 }
 
+.events__more:hover {
+  color: #1f69c9;
+}
+
 .events__cover {
   flex-grow: 1;
   flex-shrink: 0;
@@ -482,6 +486,10 @@
   line-height: 20px;
   text-decoration: none;
   color: white;
+}
+
+.footer__column-link:hover {
+  color: #1f69c9;
 }
 
 .footer__social-icon {
