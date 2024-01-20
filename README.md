@@ -28,7 +28,7 @@ The landing page was crafted using HTML and CSS, incorporating semantic HTML for
 
 ### Links
 
-- The [live]() page is hosted on GitHub Pages.
+- The [live](https://mnunezsa95.github.io/se_project_library/) page is hosted on GitHub Pages.
 
 ### Plans for Improvement
 
